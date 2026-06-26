@@ -1,2 +1,11 @@
-# marga-graduation
-An interactive graduation letter website with animated memories and heartfelt moments.
+# Marga Graduation
+
+An interactive graduation website built with HTML, CSS, and JavaScript.
+
+## Features
+- Animated introduction
+- Photo memory gallery
+- Graduation message
+- Responsive design
+
+Made with ❤️
